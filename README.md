@@ -16,7 +16,8 @@ These projects represent my strongest work in **business analysis, data analysis
 
 | Project | Completion Date | Description | Tools |
 |---|---|---|---|
-| [Revenue Decline Analysis](https://github.com/Ayeshah123/Revenue_Decline_Root_Cause_Analysis) | July 2026 | Investigated a 43% decline in revenue and identified its key drivers. | SQL, Power BI |
+| [Revenue Decline Analysis](https://github.com/Ayeshah123/Revenue_Decline_Root_Cause_Analysis) | July 2026 | Investigated a 43% decline in revenue by decomposing revenue into quantity sold and average selling price. Conducted a structured drill-down across time, product hierarchy, and geography to identify the primary drivers of the decline, uncovering the products, periods, and markets that contributed most significantly to the revenue loss.
+ | SQL, Power BI |
 | [Credit Risk Analysis](https://github.com/Ayeshah123/Excel-FinalProject-CreditRiskAnalysis) | June 2026 | Analyzed credit risk data to identify patterns and assess factors associated with credit risk. | Excel |
 | [Business Questions](https://github.com/Ayeshah123/SQL-BusinessQuestions) | July 2026 | Answered business questions through SQL analysis and data exploration. | SQL |
 | [HR Analysis](https://github.com/Ayeshah123/Excel-MiniProject2-HRAnalysis) | April 2026 | Analyzed HR data through data cleaning, analysis, and dashboard development. | Excel |
