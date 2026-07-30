@@ -29,8 +29,8 @@ These projects demonstrate additional **technical skills, data preparation, and 
 
 | Project | Completion Date | Description | Tools |
 |---|---|---|---|
-| [Data Profiling Report](https://github.com/Ayeshah123/Excel-Data-Profiling-Cleaning-Documentation) | July 2026 | Performed data profiling, cleaning, validation, and documentation. | Excel |
-| [Sales Analysis](https://github.com/Ayeshah123/Excel-MiniProject1-SalesAnalysis) | April 2026 | Prepared sales data and applied advanced Excel formulas and PivotTables for analysis. | Excel |
+| [Data Profiling Report](https://github.com/Ayeshah123/Excel-Data-Profiling-Cleaning-Documentation) | July 2026 | Performed statistical analysis using mean, median, standard deviation, and outlier analysis to understand data distributions and variability. Profiled, cleaned, standardized, and validated HR data, documenting key transformations to produce an analysis-ready dataset. | Excel |
+| [Sales Analysis](https://github.com/Ayeshah123/Excel-MiniProject1-SalesAnalysis) | April 2026 | Analyzed sales performance across revenue, profit, products, countries, and sales channels using Excel. | Excel |
 | [Hospital Database Design](https://github.com/Ayeshah123/SQL-HospitalManagement-DBdesign) | April 2026 | Designed a relational hospital management database. | SQL |
 | [E-commerce Database Design](https://github.com/Ayeshah123/SQL-ecommerce-DBdesign) | April 2026 | Designed a relational e-commerce database. | SQL |
 
