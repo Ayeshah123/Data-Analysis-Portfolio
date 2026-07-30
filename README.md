@@ -34,3 +34,10 @@
 | [Data Profiling Report](https://github.com/Ayeshah123/Excel-Data-Profiling-Cleaning-Documentation) | July 2026 | Performed data profiling, cleaning, and validation. |
 | [Sales Analysis](https://github.com/Ayeshah123/Excel-MiniProject1-SalesAnalysis) | April 2026 | Conducted sales analysis using data preparation and advanced formulas. |
 | [HR Analysis](https://github.com/Ayeshah123/Excel-MiniProject2-HRAnalysis) | April 2026 | Analyzed HR data using data cleaning, advanced formulas, and dashboards. |
+
+---
+
+### 🌐 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ayesha-analyst/)
+- [Email](ayeshabatool160@gmail.com)
