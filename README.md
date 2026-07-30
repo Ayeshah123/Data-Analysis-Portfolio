@@ -1,43 +1,42 @@
-# Ayesha's Data Analysis Portfolio
+# Ayesha's Portfolio
+
+Welcome to my Portfolio. This showcases projects demonstrating my experience in **SQL, Excel, Power BI, data analysis, and business problem-solving**.
 
 ## 📑 Table of Contents
 
-1. [Business Analysis & Problem Solving](#business-analysis--problem-solving)
-2. [SQL Projects](#sql-projects)
-3. [Excel Projects](#excel-projects)
+1. [Featured Projects](#featured-projects)
+2. [Supporting Projects](#supporting-projects)
+3. [Let's Connect](#lets-connect)
 
 ---
 
-## 🔎 Business Analysis & Problem Solving
+## ⭐ Featured Projects
 
-| Project | Completion Date | Description |
-|---|---|---|
-| [Revenue Decline Analysis](https://github.com/Ayeshah123/Revenue_Decline_Root_Cause_Analysis) | July 2026 | Investigated a 43% decline in revenue and identified its key drivers. |
+These projects represent my strongest work in **business analysis, data analysis, and problem-solving**.
 
----
-
-## 🗄️ SQL Projects
-
-| Project | Completion Date | Description |
-|---|---|---|
-| [Business Questions](https://github.com/Ayeshah123/SQL-BusinessQuestions) | July 2026 | Answered business questions through SQL analysis. |
-| [Hospital Database Design](https://github.com/Ayeshah123/SQL-HospitalManagement-DBdesign) | April 2026 | Designed a relational hospital management database. |
-| [E-commerce Database Design](https://github.com/Ayeshah123/SQL-ecommerce-DBdesign) | April 2026 | Designed a relational e-commerce database. |
+| Project | Completion Date | Description | Tools |
+|---|---|---|---|
+| [Revenue Decline Analysis](https://github.com/Ayeshah123/Revenue_Decline_Root_Cause_Analysis) | July 2026 | Investigated a 43% decline in revenue and identified its key drivers. | SQL, Power BI |
+| [Credit Risk Analysis](https://github.com/Ayeshah123/Excel-FinalProject-CreditRiskAnalysis) | June 2026 | Analyzed credit risk data to identify patterns and assess factors associated with credit risk. | Excel |
+| [Business Questions](https://github.com/Ayeshah123/SQL-BusinessQuestions) | July 2026 | Answered business questions through SQL analysis and data exploration. | SQL |
+| [HR Analysis](https://github.com/Ayeshah123/Excel-MiniProject2-HRAnalysis) | April 2026 | Analyzed HR data through data cleaning, analysis, and dashboard development. | Excel |
 
 ---
 
-## 📊 Excel Projects
+## 📎 Supporting Projects
 
-| Project | Completion Date | Description |
-|---|---|---|
-| [Credit Risk Analysis](https://github.com/Ayeshah123/Excel-FinalProject-CreditRiskAnalysis) | June 2026 | Analyzed credit risk data using Excel. |
-| [Data Profiling Report](https://github.com/Ayeshah123/Excel-Data-Profiling-Cleaning-Documentation) | July 2026 | Performed data profiling, cleaning, and validation. |
-| [Sales Analysis](https://github.com/Ayeshah123/Excel-MiniProject1-SalesAnalysis) | April 2026 | Conducted sales analysis using data preparation and advanced formulas. |
-| [HR Analysis](https://github.com/Ayeshah123/Excel-MiniProject2-HRAnalysis) | April 2026 | Analyzed HR data using data cleaning, advanced formulas, and dashboards. |
+These projects demonstrate additional **technical skills, data preparation, and database knowledge**.
+
+| Project | Completion Date | Description | Tools |
+|---|---|---|---|
+| [Data Profiling Report](https://github.com/Ayeshah123/Excel-Data-Profiling-Cleaning-Documentation) | July 2026 | Performed data profiling, cleaning, validation, and documentation. | Excel |
+| [Sales Analysis](https://github.com/Ayeshah123/Excel-MiniProject1-SalesAnalysis) | April 2026 | Prepared sales data and applied advanced Excel formulas and PivotTables for analysis. | Excel |
+| [Hospital Database Design](https://github.com/Ayeshah123/SQL-HospitalManagement-DBdesign) | April 2026 | Designed a relational hospital management database. | SQL |
+| [E-commerce Database Design](https://github.com/Ayeshah123/SQL-ecommerce-DBdesign) | April 2026 | Designed a relational e-commerce database. | SQL |
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ayesha-analyst/)
-- [Email](ayeshabatool160@gmail.com)
+- [Email](mailto:ayeshabatool160@gmail.com)
